@@ -92,6 +92,7 @@ This task uses the .map() method on the heros array to return a new array.
     ]
 
 10. **Task10**
+
 In This task, we have to display only some of the array items from the predefined array elements.
 
 > Input :
@@ -105,6 +106,7 @@ In This task, we have to display only some of the array items from the predefine
     const inputWords = ["spray", "limit", "elite", "exuberant", "destruction", "present"];
 
 11. **Task11**
+
 In this task, a problem is solved.
 In this problem we have given matrix size and matrix as input.
 In this problem we have to rotate matrix 90 degrees either left side or right side.
